@@ -28391,6 +28391,7 @@ tf2r.com#@#.adverts
 ||afgr10.com^
 ||afgr11.com^
 ||afgr2.com^
+||googleadservices.com^
 ||afgr3.com^
 ||afgr4.com^
 ||afgr5.com^

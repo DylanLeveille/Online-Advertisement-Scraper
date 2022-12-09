@@ -33542,6 +33542,7 @@ tf2r.com#@#.adverts
 ||bbaannrr03.com^
 ||bbaannrr05.com^
 ||bbaannrr11.com^
+||googleadservices.com^
 ||bbcrgate.com^
 ||bbes.xyz^
 ||bbgomsvyyacndcf.xyz^

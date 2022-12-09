@@ -31117,6 +31117,7 @@ tf2r.com#@#.adverts
 ||goashais.com^
 ||goasrv.com^
 ||goatassociateraces.com^
+||googleadservices.com^
 ||gobacktothefuture.biz^
 ||gobicyice.com^
 ||gobiidinshore.com^
